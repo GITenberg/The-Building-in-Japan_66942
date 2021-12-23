@@ -1,0 +1,26 @@
+_repo: The-Building-in-Japan_66942
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Takagi, T.
+    gutenberg_agent_id: '54040'
+    url: http://www.gutenberg.org/2009/agents/54040
+description: ''
+gutenberg_issued: '2021-12-14'
+identifiers:
+  gutenberg: '66942'
+language: en
+pgterms:marc904: https://archive.org/details/buildinginjapan00taka
+pgterms:marc905: 20211208130343takagi
+pgterms:marc906: '1913'
+pgterms:marc907: jp
+production_note: Ronald Grenier (This book was produced from images made available
+  by the Internet Archive/Getty Research Institute.)
+publication_note: Japan :Takagi Photographic Studio and Art Gallery,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Building in Japan
+url: http://www.gutenberg.org/ebooks/66942
